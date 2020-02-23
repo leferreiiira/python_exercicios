@@ -1,0 +1,7 @@
+# Fonte: https://wiki.python.org.br/EstruturaSequencial
+# Data: 22/02/2020
+#5. Faça um Programa que converta metros para centímetros.
+ 
+metro=  float (input("Insira o valor em metro: "))
+cent = metro * 100
+print("O valor em centímetros é de ", cent, "centímetros!");
