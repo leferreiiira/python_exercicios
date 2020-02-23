@@ -1,0 +1,8 @@
+# Fonte: https://wiki.python.org.br/EstruturaSequencial
+# Data: 22/02/2020
+#3. Faça um Programa que peça dois números e imprima a soma.
+ 
+numb1 = int(input("Insira o primeiro número: "))
+numb2 = int(input("Insira o segundo número: "))
+soma = numb1 + numb2
+print("A soma dos dois número é", soma);
