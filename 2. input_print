@@ -1,0 +1,6 @@
+# Fonte: https://wiki.python.org.br/EstruturaSequencial
+# Data: 22/02/2020
+#2.Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número]
+
+numb = int(input("Insira um número "))
+print("O número informado foi", numb);
