@@ -1,0 +1,5 @@
+# Fonte: https://wiki.python.org.br/EstruturaSequencial
+# Data: 22/02/2020
+# 1.Faça um Programa que mostre a mensagem "Alô mundo" na tela
+
+print("Alô Mundo");
